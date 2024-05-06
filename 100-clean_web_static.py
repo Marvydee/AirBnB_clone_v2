@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-""" Function that deploys """
+""" Function that deploy """
 from fabric.api import *
 
 
-env.hosts = ['44.210.150.159', '35.173.47.15']
+env.hosts = ['54.167.89.121', '54.237.80.187']
 env.user = "ubuntu"
 
 
