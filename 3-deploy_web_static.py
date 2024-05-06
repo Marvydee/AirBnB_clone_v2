@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Create and distributes an archive to web servers"""
+"""Create and distributes an archive to my web servers"""
 import os.path
 import time
 from fabric.api import local
